@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>urls</key>
+		<dict>
+			<key>newAccountUI</key>
+			<string>https://setup.icloud.com/setup/create_account_ui</string>
+
+			<key>fmipauthenticate</key>
+			<string>https://setup.icloud.com/setup/fmipauthenticate/$APPLE_ID$</string>
+
+			<key>genericTermsUI</key>
+			<string>https://setup.icloud.com/setup/iosbuddy/ui/genericTermsUI</string>
+
+			<key>loginOrCreateAccount</key>
+			<string>https://setup.icloud.com/setup/login_or_create_account</string>
+
+			<key>nqRegister</key>
+			<string>https://setup.icloud.com/setup/nq_register/$APPLE_ID$/$UDID$</string>
+
+			<key>qualifyDevice</key>
+			<string>https://setup.icloud.com/setup/qualify/qualifyDevice</string>
+
+			<key>registerWebToken</key>
+			<string>https://setup.icloud.com/setup/web/basic/token_auth_update_account</string>
+
+			<key>qualifySession</key>
+			<string>https://setup.icloud.com/setup/qualify/session</string>
+
+			<key>md-sync-machine</key>
+			<string>https://setup.icloud.com/setup/qualify/syncMachine</string>
+
+			<key>emailTosUrl</key>
+			<string>https://setup.icloud.com/setup/web/mailtos/</string>
+
+			<key>about</key>
+			<string>https://setup.icloud.com/setup/iosbuddy/ui/about?page=</string>
+
+			<key>addEmailUI</key>
+			<string>https://setup.icloud.com/setup/add_free_email_ui</string>
+
+			<key>qualifyCert</key>
+			<string>https://setup.icloud.com/setup/qualify/cert?ver=P1.10.1</string>
+
+			<key>updateAccountUI</key>
+			<string>https://setup.icloud.com/setup/update_account_ui</string>
+
+			<key>authenticate</key>
+			<string>https://setup.icloud.com/setup/authenticate/$APPLE_ID$</string>
+
+			<key>validate</key>
+			<string>https://setup.icloud.com/setup/validate/$DS_PRS_ID$/$UDID$</string>
+
+			<key>initiateVetting</key>
+			<string>https://setup.icloud.com/setup/initiate_vetting/$APPLE_ID$</string>
+
+			<key>iForgotBuddyML</key>
+			<string>https://iforgot.apple.com/iForgot/iForgotBML.html</string>
+
+			<key>completeVetting</key>
+			<string>https://setup.icloud.com/setup/complete_vetting/$APPLE_ID$</string>
+
+			<key>createAndRegisterAppleIdBaseUrl</key>
+			<string>https://setup.icloud.com/setup/web/create_apple_id_and_account/</string>
+
+			<key>iForgot</key>
+			<string>https://iforgot.apple.com</string>
+
+			<key>register</key>
+			<string>https://setup.icloud.com/setup/register/$APPLE_ID$/$UDID$</string>
+
+			<key>updateAccount</key>
+			<string>https://setup.icloud.com/setup/update/$APPLE_ID$/$UDID$</string>
+
+			<key>loginDelegates</key>
+			<string>https://setup.icloud.com/setup/iosbuddy/loginDelegates</string>
+
+			<key>validateEmail</key>
+			<string>https://setup.icloud.com/setup/initiate_vetting/$APPLE_ID$</string>
+
+			<key>checkAppleIdAvailabilityUrl</key>
+			<string>https://setup.icloud.com/setup/web/check_availability/</string>
+
+			<key>existingAppleIdTermsUI</key>
+			<string>https://setup.icloud.com/setup/iosbuddy/ui/existingAppleIdTermsUI</string>
+
+			<key>rampAlert</key>
+			<string>https://setup.icloud.com/setup/ramp_alert</string>
+
+			<key>updateAppleID</key>
+			<string>https://setup.icloud.com/setup/iosbuddy/updateAppleID</string>
+
+			<key>newAccount</key>
+			<string>https://setup.icloud.com/setup/create/$UDID$</string>
+
+			<key>createAppleID</key>
+			<string>https://setup.icloud.com/setup/iosbuddy/createAppleID</string>
+
+			<key>md-finish-provisioning</key>
+			<string>https://setup.icloud.com/setup/qualify/finishProvisioningMachine</string>
+
+			<key>createDelegateAccounts</key>
+			<string>https://setup.icloud.com/setup/iosbuddy/createDelegateAccounts</string>
+
+			<key>emailLookup</key>
+			<string>https://setup.icloud.com/setup/lookup_email</string>
+
+			<key>loadUI</key>
+			<string>https://setup.icloud.com/setup/iosbuddy/ui/loadUI</string>
+
+			<key>checkMeEmailAvailabilityUrl</key>
+			<string>https://setup.icloud.com/setup/web/check_availability/</string>
+
+			<key>getAccountSettings</key>
+			<string>https://setup.icloud.com/setup/get_account_settings</string>
+
+			<key>registerWebBasic</key>
+			<string>https://setup.icloud.com/setup/web/basic_auth_update_account</string>
+
+			<key>activateMeEmailUrl</key>
+			<string>https://setup.icloud.com/setup/web/activate_email</string>
+
+		</dict>
+
+	</dict>
+</plist>
+
+<!-- IOS -->
